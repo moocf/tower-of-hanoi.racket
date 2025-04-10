@@ -15,4 +15,6 @@ after each move. The larger disk is listed first.
   (3 3))
 ```
 
+![](https://ga-beacon.deno.dev/G-G1E8HNDZYY:v51jklKGTLmC3LAZ4rJbIQ/github.com/moocf/tower-of-hanoi.racket)
+
 [Discrete Maths and Algorithms]: https://github.com/iiithf/discrete-mathematics-and-algorithms
